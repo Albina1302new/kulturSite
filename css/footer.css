@@ -1,0 +1,38 @@
+@keyframes pulse {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+#toTopBtn {
+  animation: pulse 2s infinite;
+}
+.footer-text p {
+  margin: 4px 0;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  line-height: 1.5;
+}
+.logo-footer,
+.footer-link img {
+  max-height: 50px;
+  width: 50px;
+  display: block;
+}
+/* footer h2 {
+  color: #fff;
+} */
+footer {
+  margin: 0 auto;
+  padding: 35px 20px;
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+  justify-content: space-between;
+}

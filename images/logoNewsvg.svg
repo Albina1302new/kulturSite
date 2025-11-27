@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 466.71 456.28">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-8, .cls-4 {
+        font-size: 203.43px;
+      }
+
+      .cls-1, .cls-8, .cls-4, .cls-9, .cls-5, .cls-10, .cls-6, .cls-11, .cls-7, .cls-12 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-8, .cls-4, .cls-5, .cls-10, .cls-6, .cls-11, .cls-7, .cls-12 {
+        font-family: Apple-Chancery, 'Apple Chancery';
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #231f20;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: 15px;
+      }
+
+      .cls-8, .cls-10, .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-5, .cls-10, .cls-7 {
+        font-size: 105.27px;
+      }
+
+      .cls-6, .cls-11, .cls-12 {
+        font-size: 219.47px;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-12 {
+        fill: #c7c8ca;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-2" cx="212.63" cy="255.91" rx="209.13" ry="192.87"/>
+  <ellipse class="cls-3" cx="248.95" cy="228.14" rx="210.26" ry="220.64"/>
+  <g class="cls-9">
+    <g class="cls-9">
+      <text class="cls-8" transform="translate(99.56 197.92) scale(1.32 1)"><tspan x="0" y="0">A</tspan></text>
+      <text class="cls-1" transform="translate(99.56 197.92) scale(1.32 1)"><tspan x="0" y="0">A</tspan></text>
+    </g>
+    <g class="cls-9">
+      <text class="cls-8" transform="translate(99.56 197.92) scale(1.32 1)"><tspan x="0" y="0">A</tspan></text>
+      <text class="cls-4" transform="translate(99.56 197.92) scale(1.32 1)"><tspan x="0" y="0">A</tspan></text>
+    </g>
+  </g>
+  <g class="cls-9">
+    <g class="cls-9">
+      <text class="cls-12" transform="translate(207.84 273.36) scale(1.21 1)"><tspan x="0" y="0">L</tspan></text>
+    </g>
+    <g class="cls-9">
+      <text class="cls-11" transform="translate(207.84 273.36) scale(1.21 1)"><tspan x="0" y="0">L</tspan></text>
+      <text class="cls-6" transform="translate(207.84 273.36) scale(1.21 1)"><tspan x="0" y="0">L</tspan></text>
+    </g>
+  </g>
+  <g class="cls-9">
+    <g class="cls-9">
+      <text class="cls-10" transform="translate(187.56 375.36) scale(1.12 1)"><tspan x="0" y="0">fo</tspan></text>
+      <text class="cls-5" transform="translate(187.56 375.36) scale(1.12 1)"><tspan x="0" y="0">fo</tspan></text>
+      <text class="cls-10" transform="translate(274.9 375.36) scale(1.12 1)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-5" transform="translate(274.9 375.36) scale(1.12 1)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-10" transform="translate(315.77 375.36) scale(1.12 1)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-5" transform="translate(315.77 375.36) scale(1.12 1)"><tspan x="0" y="0">o</tspan></text>
+    </g>
+    <g class="cls-9">
+      <text class="cls-10" transform="translate(187.56 375.36) scale(1.12 1)"><tspan x="0" y="0">fo</tspan></text>
+      <text class="cls-7" transform="translate(187.56 375.36) scale(1.12 1)"><tspan x="0" y="0">fo</tspan></text>
+      <text class="cls-10" transform="translate(274.9 375.36) scale(1.12 1)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-7" transform="translate(274.9 375.36) scale(1.12 1)"><tspan x="0" y="0">t</tspan></text>
+      <text class="cls-10" transform="translate(315.77 375.36) scale(1.12 1)"><tspan x="0" y="0">o</tspan></text>
+      <text class="cls-7" transform="translate(315.77 375.36) scale(1.12 1)"><tspan x="0" y="0">o</tspan></text>
+    </g>
+  </g>
+</svg>
